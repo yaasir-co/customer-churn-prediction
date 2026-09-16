@@ -1,0 +1,29 @@
+# AI/ML Engineer Glossary
+
+- **Feature:** Input variable used by a model.
+- **Target / Label:** Output the model learns to predict.
+- **Training set:** Data used to fit model parameters.
+- **Validation set:** Data used for model/hyperparameter decisions.
+- **Test set:** Held-out data used for final evaluation.
+- **Overfitting:** Learning training patterns that do not generalize.
+- **Underfitting:** Model is too simple to capture useful patterns.
+- **Data leakage:** Training with information unavailable at inference time.
+- **One-hot encoding:** Convert categories to binary indicator features.
+- **Standardization:** Center and scale numeric values.
+- **Inference:** Using a trained model to make predictions.
+- **Probability:** Model confidence-like estimate for an outcome.
+- **Threshold:** Probability cutoff used to convert score into a class.
+- **Precision:** Correct positive predictions divided by all positive predictions.
+- **Recall:** Correct positive predictions divided by all actual positives.
+- **F1:** Harmonic mean of precision and recall.
+- **ROC-AUC:** Threshold-independent ranking metric.
+- **Log loss:** Probability-quality loss function.
+- **Calibration:** Agreement between predicted probabilities and observed frequencies.
+- **Hyperparameter:** Configuration chosen before fitting.
+- **Pipeline:** Reproducible chain of preprocessing and model steps.
+- **Feature importance:** Estimate of how useful a feature is for predictions.
+- **Drift:** Change in data or target relationship over time.
+- **Model registry:** Controlled storage for model versions and metadata.
+- **Champion model:** Current production model.
+- **Challenger model:** Candidate tested against the champion.
+- **MLOps:** Practices for deploying, monitoring and maintaining ML systems.

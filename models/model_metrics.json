@@ -1,0 +1,105 @@
+{
+  "best_model": "Logistic Regression",
+  "selection_metric": "roc_auc",
+  "train_rows": 7020,
+  "test_rows": 1980,
+  "dataset_rows": 9000,
+  "churn_rate": 0.4048888888888889,
+  "numeric_features": [
+    "tenure_months",
+    "monthly_charges",
+    "total_charges"
+  ],
+  "categorical_features": [
+    "contract_type",
+    "internet_service",
+    "tech_support",
+    "online_security",
+    "device_protection",
+    "streaming_tv",
+    "streaming_movies",
+    "phone_service",
+    "multiple_lines",
+    "payment_method",
+    "paperless_billing",
+    "senior_citizen",
+    "partner",
+    "dependents"
+  ],
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.7313131313131314,
+      "precision": 0.6480263157894737,
+      "recall": 0.7369077306733167,
+      "f1": 0.6896149358226371,
+      "roc_auc": 0.8159122567096689,
+      "log_loss": 0.5236546332523564,
+      "confusion_matrix": [
+        [
+          857,
+          321
+        ],
+        [
+          211,
+          591
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.7368686868686869,
+      "precision": 0.6628041714947857,
+      "recall": 0.713216957605985,
+      "f1": 0.6870870870870871,
+      "roc_auc": 0.8095349487063327,
+      "log_loss": 0.5313681692555131,
+      "confusion_matrix": [
+        [
+          887,
+          291
+        ],
+        [
+          230,
+          572
+        ]
+      ]
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.7363636363636363,
+      "precision": 0.6971830985915493,
+      "recall": 0.6172069825436409,
+      "f1": 0.6547619047619048,
+      "roc_auc": 0.8150945852685774,
+      "log_loss": 0.5137584640883256,
+      "confusion_matrix": [
+        [
+          963,
+          215
+        ],
+        [
+          307,
+          495
+        ]
+      ]
+    },
+    "K-Nearest Neighbors": {
+      "accuracy": 0.7080808080808081,
+      "precision": 0.6473684210526316,
+      "recall": 0.6134663341645885,
+      "f1": 0.6299615877080665,
+      "roc_auc": 0.7669906303849884,
+      "log_loss": 0.5807272516929639,
+      "confusion_matrix": [
+        [
+          910,
+          268
+        ],
+        [
+          310,
+          492
+        ]
+      ]
+    }
+  },
+  "artifact_sklearn_version": "1.8.0",
+  "deployment_note": "Random Forest compressed/retrained for GitHub browser upload."
+}

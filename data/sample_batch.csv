@@ -1,0 +1,31 @@
+tenure_months,monthly_charges,total_charges,contract_type,internet_service,tech_support,online_security,device_protection,streaming_tv,streaming_movies,phone_service,multiple_lines,payment_method,paperless_billing,senior_citizen,partner,dependents
+9,92.62,764.4,One year,Fiber optic,No,No,No,No,No,Yes,No,Electronic check,Yes,No,Yes,No
+0,97.25,0.0,One year,DSL,No,Yes,Yes,Yes,No,Yes,No,Mailed check,No,No,Yes,No
+11,87.24,928.36,One year,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Electronic check,Yes,No,No,Yes
+22,91.13,1961.72,Month-to-month,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Electronic check,No,No,Yes,No
+31,90.07,2651.86,Month-to-month,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Credit card,Yes,No,Yes,No
+64,61.27,4057.2,Month-to-month,DSL,Yes,No,No,Yes,No,Yes,No,Bank transfer,Yes,Yes,No,No
+44,102.13,4812.95,Month-to-month,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit card,Yes,No,Yes,No
+4,66.82,221.86,Month-to-month,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Credit card,Yes,No,No,No
+72,75.36,4994.98,Month-to-month,DSL,Yes,Yes,No,No,Yes,Yes,No,Electronic check,Yes,Yes,No,Yes
+66,45.87,2766.9,One year,No,No,No,No,No,No,Yes,Yes,Electronic check,No,No,No,No
+16,115.3,2006.77,Month-to-month,Fiber optic,No,Yes,No,Yes,No,Yes,No,Electronic check,Yes,No,No,No
+71,66.81,5087.07,One year,DSL,No,No,No,Yes,Yes,Yes,No,Electronic check,Yes,No,No,No
+9,107.64,933.26,Two year,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit card,Yes,No,No,Yes
+65,138.12,9038.81,Month-to-month,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit card,Yes,No,Yes,No
+66,74.14,4947.0,Two year,DSL,No,No,No,Yes,Yes,Yes,No,Credit card,No,No,No,Yes
+12,98.58,1294.22,Month-to-month,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit card,Yes,No,No,No
+21,101.47,2122.1,Month-to-month,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,No,Credit card,No,No,Yes,No
+2,74.81,21.0,Two year,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Credit card,No,No,No,No
+47,85.2,3931.21,Two year,DSL,No,Yes,No,Yes,No,Yes,No,Mailed check,No,No,No,No
+51,97.43,4784.24,One year,Fiber optic,No,No,No,Yes,Yes,Yes,No,Mailed check,Yes,No,Yes,No
+48,77.83,3767.1,Month-to-month,No,Yes,Yes,No,No,Yes,Yes,Yes,Electronic check,No,No,No,No
+54,80.98,3976.4,Two year,DSL,Yes,No,No,Yes,Yes,No,Yes,Electronic check,No,No,Yes,Yes
+12,96.04,925.72,Month-to-month,Fiber optic,No,No,Yes,No,No,Yes,Yes,Credit card,Yes,No,Yes,No
+38,22.0,727.71,One year,No,No,No,No,No,No,Yes,No,Credit card,Yes,No,Yes,No
+53,95.78,4826.84,Month-to-month,Fiber optic,Yes,No,No,No,No,Yes,Yes,Electronic check,Yes,Yes,No,No
+48,83.83,4143.39,Month-to-month,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Electronic check,Yes,No,No,No
+28,97.24,2992.58,Two year,Fiber optic,Yes,Yes,No,No,Yes,Yes,No,Bank transfer,Yes,No,Yes,No
+27,74.02,2102.0,Two year,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Electronic check,Yes,No,No,Yes
+60,102.25,6164.61,Month-to-month,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,Credit card,Yes,No,Yes,No
+64,70.31,4408.38,Month-to-month,DSL,No,No,Yes,No,Yes,No,No,Bank transfer,No,Yes,No,No
